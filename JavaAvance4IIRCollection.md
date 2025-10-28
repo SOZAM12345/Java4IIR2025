@@ -326,7 +326,8 @@ class GestionEtudiants {
     }
 }
 ```
-
+Etudiant{nom='Sara', numero=102}
+Etudiant{nom='Ali', numero=101}
 
 ***
 
@@ -818,6 +819,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
