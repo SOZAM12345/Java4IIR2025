@@ -138,6 +138,9 @@ class GestionBibliotheque {
     }
 }
 ```
+Ce programme définit une petite application de gestion de bibliothèque en Java .
+La classe Livre représente un livre avec un titre, un auteur et une année, tandis que GestionBibliotheque gère une liste de livres grâce à un ArrayList( tableau redimensionnable).
+Le programme principal crée quelques livres, les ajoute à la bibliothèque et affiche leur contenu à l’écran.
 
 
 ***
@@ -813,6 +816,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
