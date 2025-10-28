@@ -218,7 +218,9 @@ class GestionTaches {
         gt.afficherTaches();
     }
 }
-```
+Ce programme gère une liste de tâches à l’aide d’une LinkedList, ce qui permet d’ajouter et de manipuler facilement les éléments.
+Chaque objet Tache possède une description et un état indiquant si elle est terminée ou non.
+Le programme principal ajoute deux tâches, marque la première comme terminée, puis affiche la liste complète des tâches avec leur état.
 
 
 ### Quiz sur les Listes (ArrayList et LinkedList)
@@ -816,6 +818,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
